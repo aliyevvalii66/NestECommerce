@@ -1,0 +1,15 @@
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Application\bin\Debug\net8.0\NestECommerce.Application.deps.json
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Application\bin\Debug\net8.0\NestECommerce.Application.dll
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Application\bin\Debug\net8.0\NestECommerce.Application.pdb
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Application\bin\Debug\net8.0\NestECommerce.Domain.dll
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Application\bin\Debug\net8.0\NestECommerce.Domain.pdb
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Application\obj\Debug\net8.0\NestECommerce.Application.csproj.AssemblyReference.cache
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Application\obj\Debug\net8.0\NestECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Application\obj\Debug\net8.0\NestECommerce.Application.AssemblyInfoInputs.cache
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Application\obj\Debug\net8.0\NestECommerce.Application.AssemblyInfo.cs
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Application\obj\Debug\net8.0\NestECommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Application\obj\Debug\net8.0\NestECommerce.Application.csproj.CopyComplete
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Application\obj\Debug\net8.0\NestECommerce.Application.dll
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Application\obj\Debug\net8.0\refint\NestECommerce.Application.dll
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Application\obj\Debug\net8.0\NestECommerce.Application.pdb
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Application\obj\Debug\net8.0\ref\NestECommerce.Application.dll

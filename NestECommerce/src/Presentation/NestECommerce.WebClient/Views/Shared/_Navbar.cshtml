@@ -1,0 +1,23 @@
+﻿@{
+	var controllerName = ViewContext.RouteData.Values["Controller"].ToString().ToLower();
+}
+<nav>
+	<ul>
+		<li class="hot-deals"><img src="~/front/assets/imgs/theme/icons/icon-hot.svg" alt="hot deals" /><a asp-action="Index" asp-controller="Shop">Hot Deals</a></li>
+		<li>
+			<a class="@(controllerName == "home" ?"active" : "")" asp-action="Index" asp-controller="Home">Home </a>
+		</li>
+		<li>
+			<a class="@(controllerName == "about" ?"active" : "")" asp-action="Index" asp-controller="About">About</a>
+		</li>
+		<li>
+			<a class="@(controllerName == "shop" ?"active" : "")" asp-action="Index" asp-controller="Shop">Shop </a>
+		</li>
+		<li>
+			<a class="@(controllerName == "blog" ?"active" : "")" asp-action="Index" asp-controller="Blog">Blog </a>
+		</li>
+		<li>
+			<a class="@(controllerName == "contact" ?"active" : "")" asp-action="Index" asp-controller="Contact">Contact</a>
+		</li>
+	</ul>
+</nav>

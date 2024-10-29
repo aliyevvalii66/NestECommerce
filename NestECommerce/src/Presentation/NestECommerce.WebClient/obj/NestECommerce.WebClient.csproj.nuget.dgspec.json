@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Presentation\\NestECommerce.WebClient\\NestECommerce.WebClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Core\\NestECommerce.Application\\NestECommerce.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Core\\NestECommerce.Application\\NestECommerce.Application.csproj",
+        "projectName": "NestECommerce.Application",
+        "projectPath": "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Core\\NestECommerce.Application\\NestECommerce.Application.csproj",
+        "packagesPath": "C:\\Users\\AliyevvAlii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Core\\NestECommerce.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AliyevvAlii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Core\\NestECommerce.Domain\\NestECommerce.Domain.csproj": {
+                "projectPath": "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Core\\NestECommerce.Domain\\NestECommerce.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Core\\NestECommerce.Domain\\NestECommerce.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Core\\NestECommerce.Domain\\NestECommerce.Domain.csproj",
+        "projectName": "NestECommerce.Domain",
+        "projectPath": "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Core\\NestECommerce.Domain\\NestECommerce.Domain.csproj",
+        "packagesPath": "C:\\Users\\AliyevvAlii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Core\\NestECommerce.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AliyevvAlii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Infrastructure\\NestECommerce.Persistence\\NestECommerce.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Infrastructure\\NestECommerce.Persistence\\NestECommerce.Persistence.csproj",
+        "projectName": "NestECommerce.Persistence",
+        "projectPath": "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Infrastructure\\NestECommerce.Persistence\\NestECommerce.Persistence.csproj",
+        "packagesPath": "C:\\Users\\AliyevvAlii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Infrastructure\\NestECommerce.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AliyevvAlii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Core\\NestECommerce.Application\\NestECommerce.Application.csproj": {
+                "projectPath": "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Core\\NestECommerce.Application\\NestECommerce.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Presentation\\NestECommerce.WebClient\\NestECommerce.WebClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Presentation\\NestECommerce.WebClient\\NestECommerce.WebClient.csproj",
+        "projectName": "NestECommerce.WebClient",
+        "projectPath": "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Presentation\\NestECommerce.WebClient\\NestECommerce.WebClient.csproj",
+        "packagesPath": "C:\\Users\\AliyevvAlii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Presentation\\NestECommerce.WebClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AliyevvAlii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Infrastructure\\NestECommerce.Persistence\\NestECommerce.Persistence.csproj": {
+                "projectPath": "C:\\Users\\AliyevvAlii\\Desktop\\ECommerce\\NestECommerce\\src\\Infrastructure\\NestECommerce.Persistence\\NestECommerce.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Domain\bin\Debug\net8.0\NestECommerce.Domain.deps.json
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Domain\bin\Debug\net8.0\NestECommerce.Domain.dll
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Domain\bin\Debug\net8.0\NestECommerce.Domain.pdb
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Domain\obj\Debug\net8.0\NestECommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Domain\obj\Debug\net8.0\NestECommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Domain\obj\Debug\net8.0\NestECommerce.Domain.AssemblyInfo.cs
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Domain\obj\Debug\net8.0\NestECommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Domain\obj\Debug\net8.0\NestECommerce.Domain.dll
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Domain\obj\Debug\net8.0\refint\NestECommerce.Domain.dll
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Domain\obj\Debug\net8.0\NestECommerce.Domain.pdb
+C:\Users\AliyevvAlii\Desktop\ECommerce\NestECommerce\src\Core\NestECommerce.Domain\obj\Debug\net8.0\ref\NestECommerce.Domain.dll
